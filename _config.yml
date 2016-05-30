@@ -1,0 +1,14 @@
+layout_spectrum: 0.858243
+typography_spectrum: 0.03405333
+color:
+  saturation: 0.3804012
+  lightness: 0.5208507
+  brandStrength: 0.03356598
+  rhythmicContrast: 0.154823
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Worship365
